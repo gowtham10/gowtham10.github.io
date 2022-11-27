@@ -1,4 +1,4 @@
-<h3 style="text-align: center">My Library</h3><br/>
+<h3 style="text-align: center">My Library</h3>
 
 #### Customisation
 
