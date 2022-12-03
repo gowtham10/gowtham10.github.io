@@ -12,3 +12,5 @@
 #### Backend
 
 #### Other Tools
+
+- [Mac Setup Guide](/other-tools/mac.md)

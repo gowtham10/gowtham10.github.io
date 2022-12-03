@@ -1,10 +1,10 @@
 <h3 style="text-align: center">VS Code Cusomisation</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Keyboard shortcuts cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+[Keyboard shortcuts cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) | [Cheatsheet - 2](https://www.crio.do/blog/vs-code-shortcuts/)
 
 ---
 
-#### Themes
+### Themes
 
 [Available themes preview](https://vscodethemes.com/?type=dark)
 
@@ -25,6 +25,7 @@
 
 ### Font
 
+[Fira code Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode) (Needs to be downloaded manually and run the font file. Can't use brew to install this)
 [Fira code install instruction](https://github.com/tonsky/FiraCode/wiki/Installing)
 [Fira code vscode ligature setup](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 
@@ -38,6 +39,10 @@
 - Jetbrains Mono Nerd Font
 - Hack Nerd Font Mono
 - Source Code Nerd Font
+
+> **[28-Nov-2022]** Some icons are not working in iTerm2 for ==Fira code==, currently using **Hack Nerd Font Mono**
+
+> **[03-Dec-2023]** ==FiraCode Nerd Font Mono== works fine which can be downloaded using the first link mentioned under **Font**
 
 ---
 
@@ -55,7 +60,9 @@
 - Prettier
 - Project Manager
 - GitLens
+- Error Lens
 - Todo Tree
+- Toggle Quotes
 - vscode-icons
 - Atom One Dark Theme
 - Github Theme
